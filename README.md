@@ -38,8 +38,8 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno de desarrollo:
 
 1. **Clonar el repositorio**
     ```bash
-    git clone (https://github.com/YainderJ/Insica-sistema-inmobiliario.git)
-    cd insica-sistema-inmobiliario
+    git clone [https://github.com/YainderJ/insica-entrega-final-pp4.git](https://github.com/YainderJ/insica-entrega-final-pp4.git)
+    cd insica-entrega-final-pp4
     ```
 
 2. **Crear y activar un entorno virtual**
@@ -68,7 +68,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno de desarrollo:
 
 ## Estructura del proyecto
 
-    insica-sistema-inmobiliario/
+    insica-entrega-final-pp4/
     ├── app/
     │   ├── common/               # Utilidades, excepciones y decoradores
     │   ├── models/               # Modelos de base de datos (inmueble, usuario, cita, lead, venta)
